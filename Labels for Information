@@ -1,0 +1,62 @@
+LABEL ENCODING
+
+Class Data:
+        no-recurrence-events    0
+        recurrence-events       1
+        Name: Class, dtype: int64
+Age Data:
+        50-59    3                        
+        40-49    2
+        60-69    4
+        30-39    1
+        70-79    5
+        20-29    0
+        Name: Age, dtype: int64
+Menopause Data:
+        premeno    2
+        ge40       0
+        lt40       1
+        Name: Menopause, dtype: int64
+Tumorsize Data:
+        30-34    5
+        25-29    4
+        20-24    3
+        15-19    2
+        10-14    1
+        40-44    7
+        35-39    6
+        50-54    10
+        0-4      0
+        5-9      9
+        45-49    8
+        Name: TumorSize, dtype: int64
+invnodes Data:
+        0-2      0
+        3-5      4
+        6-8      5
+        9-11     6
+        15-17    2
+        12-14    1
+        24-26    3
+        Name: invnodes, dtype: int64
+Nodecaps Data:
+        no     0
+        yes    1
+        Name: Nodecaps, dtype: int64
+Breast Data:
+        left     0
+        right    1
+        Name: Breast, dtype: int64
+Breastquad Data:
+        left_low     1
+        left_up      2
+        right_up     4
+        right_low    3
+        central      0
+        Name: Breastquad, dtype: int64
+Irradiate Data:
+        no     0
+        yes    1
+        Name: Irradiate, dtype: int64
+                
+          
